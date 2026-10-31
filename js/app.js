@@ -649,10 +649,11 @@ function importar(e) {
 
 /* ======================= Navegación ======================= */
 function ruta() {
-  const tab = (location.hash || '#hoy').slice(1).split('/')[0] || 'hoy';
+  const [tab = 'hoy', sub] = (location.hash || '#hoy').slice(1).split('/');
   document.querySelectorAll('.tabs a').forEach(a => a.classList.toggle('active', a.dataset.tab === tab));
   if (tab !== 'simulacro') clearInterval(relojSim);
   if (tab !== 'practicar') sesion = null;
+  if (tab === 'mapas') return vistaMapas(sub);
   ({ hoy: vistaHoy, practicar: vistaPracticar, escuchar: vistaEscuchar, simulacro: vistaSimulacro, progreso: vistaProgreso }[tab] || vistaHoy)();
 }
 
