@@ -9,7 +9,7 @@ Página de estudio diario para la **Convocatoria 67-2026 de la Procuraduría Gen
 - **Repaso espaciado**: las preguntas falladas vuelven a salir al día siguiente y luego a los 3, 7, 14 y 30 días, hasta dominarlas.
 - **Escuchar**: resúmenes por unidad y preguntas narradas (pregunta, pausa para pensar, respuesta) con la voz del propio celular.
 - **Simulacro**: 20 o 40 preguntas mezcladas de todos los ejes, con tiempo y mínimo aprobatorio de 65/100.
-- **Mapas**: organigrama de la PGN, el concurso paso a paso con plazos, quién hace qué, comparación de las comisiones de Carrera y de Personal, y calculadora de puntaje de la prueba. Cada mapa se puede escuchar.
+- **Mapas**: ideas clave por tema (164 reglas esenciales por eje, para leer o escuchar), organigrama de la PGN, el concurso paso a paso con plazos, quién hace qué, comparación de las comisiones de Carrera y de Personal, y calculadora de puntaje de la prueba. Cada mapa se puede escuchar.
 - **Progreso**: avance y porcentaje de acierto por eje, racha de días, historial de simulacros y copia de seguridad del progreso.
 
 ## Cómo se usa
@@ -26,6 +26,7 @@ css/app.css             estilos
 js/app.js               lógica (plan, práctica, voz, simulacros, progreso)
 js/mapas.js             mapas visuales y calculadora
 data/preguntas.json     banco de preguntas extraído del material de estudio
+data/ideas.json         ideas clave por tema
 sw.js                   caché para uso sin conexión
 manifest.webmanifest    instalación como app
 icons/                  íconos

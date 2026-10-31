@@ -10826,27 +10826,27 @@
 "unidad": "D20",
 "num": 4,
 "tema": "carrera",
-"eje": "Licencia de maternidad — duración y cesión de una semana",
-"conocimiento": "Término de la licencia de maternidad y posibilidad de ceder una semana al cónyuge o compañero permanente",
-"enunciado": "Una servidora de la Procuraduría, próxima a dar a luz, desea saber la duración total de su licencia de maternidad y si puede ceder parte de ese término a su cónyuge. Conforme al artículo 125 del Decreto Ley 262 de 2000, es correcto afirmar que",
+"eje": "Licencia de maternidad — régimen vigente frente al texto del artículo 125",
+"conocimiento": "Identificación de la norma vigente sobre la duración de la licencia de maternidad y la licencia parental compartida de las servidoras públicas",
+"enunciado": "Una servidora de la Procuraduría, próxima a dar a luz, lee que el artículo 125 del Decreto Ley 262 de 2000 habla de una licencia de maternidad de doce semanas, con posibilidad de ceder una semana a su cónyuge, y quiere saber qué rige hoy. Conforme al régimen vigente de las licencias de maternidad de las servidoras públicas, es correcto afirmar que",
 "opciones": {
-"A": "la licencia de maternidad es de doce semanas, y la servidora puede ceder una semana a su cónyuge o compañero permanente, coincidiendo con el parto o la fase inicial del puerperio.",
-"B": "la licencia de maternidad es de dieciocho semanas, y la servidora puede ceder hasta cuatro semanas a su cónyuge o compañero permanente, en cualquier momento del primer año del menor.",
-"C": "la licencia de maternidad es de doce semanas, pero la norma no contempla ninguna posibilidad de ceder parte de ese término al cónyuge o compañero permanente de la servidora.",
-"D": "la licencia de maternidad es de dieciséis semanas, y la servidora puede ceder dos semanas a su cónyuge o compañero permanente, sin exigir coincidencia con el parto."
+"A": "rigen las dieciocho semanas del artículo 236 del Código Sustantivo del Trabajo (Ley 1822 de 2017), porque las licencias de maternidad de los servidores públicos se rigen por las normas de seguridad social; además, con la licencia parental compartida (Ley 2114 de 2021), la pareja puede distribuir entre sí las últimas seis semanas.",
+"B": "rige el artículo 125 tal como está escrito, porque la Procuraduría tiene un régimen especial de carrera y sus normas prevalecen sobre las leyes generales de seguridad social.",
+"C": "rigen las dieciocho semanas, pero la servidora no puede compartir ninguna parte de la licencia con su pareja, porque la licencia parental compartida solo se aplica a quienes tienen contrato de trabajo.",
+"D": "rige una licencia de catorce semanas, porque la ampliación a dieciocho semanas solo cobija a las trabajadoras del sector privado."
 },
 "correcta": "A",
-"justificacion": "La norma fija la licencia de maternidad en doce semanas, y habilita a la servidora para ceder una semana a su cónyuge o compañero permanente, período que debe coincidir con la fecha del parto o la fase inicial del puerperio.",
-"fuente": "Decreto Ley 262 de 2000, artículo 125.",
-"tecnica": "Frente a un término expreso (doce semanas) y una facultad de cesión también expresa (una semana), conviene verificar ambas cifras con precisión y la condición de coincidencia temporal que la norma exige para la cesión, sin inventar plazos ni condiciones distintas.",
+"justificacion": "El texto del artículo 125 del Decreto Ley 262 de 2000 (doce semanas y cesión de una semana) quedó superado. Las licencias de maternidad de los servidores públicos se rigen por las normas del régimen de seguridad social: el artículo 236 del Código Sustantivo del Trabajo, modificado por la Ley 1822 de 2017, fija dieciocho semanas, término que el Decreto 1083 de 2015 recoge para los empleados públicos. La Ley 2114 de 2021 creó la licencia parental compartida, que permite a los padres distribuir entre sí las últimas seis semanas de la licencia de la madre, y el Decreto 1605 de 2024 la reglamentó para el sector público.",
+"fuente": "Código Sustantivo del Trabajo, artículo 236 (modificado por las Leyes 1822 de 2017 y 2114 de 2021); Decreto 1083 de 2015; Decreto 1605 de 2024; Decreto Ley 262 de 2000, artículo 125 (texto superado en esta materia); Función Pública, Concepto 075601 de 2023.",
+"tecnica": "Cuando una norma especial antigua fija una cifra menor que la ley general posterior en una materia de seguridad social, sospeche que fue superada. Las opciones que congelan el texto antiguo o excluyen al sector público sin norma expresa son las débiles.",
 "distractores": {
-"B": "Incorrecto porque la licencia es de doce semanas, no de dieciocho, y la cesión posible es de una semana, no de cuatro, sin que la norma permita cederla en cualquier momento del primer año.",
-"C": "Incorrecto porque la norma sí contempla expresamente la posibilidad de ceder una semana de la licencia al cónyuge o compañero permanente.",
-"D": "Incorrecto porque la licencia es de doce semanas, no de dieciséis, y la cesión posible es de una semana, exigiendo coincidencia con el parto."
+"B": "Incorrecto porque el régimen especial de carrera de la PGN no desplaza las normas de seguridad social: las licencias de maternidad de los servidores públicos se rigen por ellas, y hoy fijan dieciocho semanas.",
+"C": "Incorrecto porque el Decreto 1605 de 2024 reglamentó la licencia parental compartida para los servidores del sector público.",
+"D": "Incorrecto porque la duración vigente es de dieciocho semanas, sin distinguir entre sector público y privado; catorce semanas era el término anterior a la Ley 1822 de 2017."
 },
-"bloom": "Aplicar",
+"bloom": "Analizar",
 "dificultad": "",
-"idea": "Art. 125: la licencia de maternidad es de 12 semanas; la servidora puede ceder 1 semana a su cónyuge, coincidiendo con el parto."
+"idea": "Licencia de maternidad: hoy rigen 18 semanas (art. 236 CST, Ley 1822 de 2017), no las 12 del art. 125 del DL 262; la pareja puede compartir las últimas 6 semanas (Ley 2114 de 2021; Decreto 1605 de 2024)."
 },
 {
 "id": "D20-05",

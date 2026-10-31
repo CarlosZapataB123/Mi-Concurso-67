@@ -138,6 +138,39 @@ const PRUEBA = [
   { nombre: 'Análisis de antecedentes', peso: 10, caracter: 'Clasificatoria' },
 ];
 
+/* ---------- Ideas clave por tema (data/ideas.json) ---------- */
+let IDEAS = null;
+async function cargarIdeas() {
+  if (!IDEAS) IDEAS = await (await fetch('data/ideas.json')).json();
+  return IDEAS;
+}
+function audioIdeas(sec) {
+  const n = sec.tema.split('.')[0];
+  return [{ titulo: sec.tema, partes: [{ t: `Ideas clave. ${sec.tema}. ${sec.ideas.length} ideas.` }] }]
+    .concat(sec.ideas.map((i, k) => ({ titulo: `Tema ${n} · idea ${k + 1} de ${sec.ideas.length}`, partes: [{ t: i.t + '.' }, { t: i.x }] })));
+}
+function listaIdeasAudio(contenedor) {
+  cargarIdeas().then(secs => contenedor.replaceChildren(...secs.map(sec => h('button', { type: 'button', class: 'list-item', onclick: () => Voz.reproducir(audioIdeas(sec)) },
+    h('span', {}, '▶'), h('div', { class: 'grow' }, h('div', { class: 't' }, sec.tema), h('div', { class: 's' }, `${sec.ideas.length} ideas · ${sec.parte.split('.')[0]}`))))))
+    .catch(() => contenedor.replaceChildren(h('p', { class: 'muted small' }, 'No se pudieron cargar las ideas clave.')));
+}
+function mapaIdeas(volver) {
+  pintar(volver, h('h1', {}, 'Ideas clave por tema'), h('p', { class: 'muted' }, 'Cargando…'));
+  cargarIdeas().then(secs => {
+    const nodos = [volver, h('h1', {}, 'Ideas clave por tema'),
+      h('p', { class: 'muted small' }, 'Las reglas esenciales de cada eje de la Convocatoria 67, con su artículo. Toca un tema para abrirlo o escúchalo completo.')];
+    let parte = '';
+    for (const sec of secs) {
+      if (sec.parte !== parte) { parte = sec.parte; nodos.push(h('h2', {}, parte)); }
+      nodos.push(h('details', { class: 'card org' },
+        h('summary', {}, sec.tema, h('span', { class: 'muted small' }, ` · ${sec.ideas.length}`)),
+        h('button', { type: 'button', class: 'secondary full mt', onclick: () => Voz.reproducir(audioIdeas(sec)) }, '🔊 Escuchar este tema'),
+        ...sec.ideas.map(i => h('p', { class: 'small' }, h('strong', {}, i.t + '. '), i.x))));
+    }
+    pintar(...nodos);
+  }).catch(() => pintar(volver, h('p', {}, 'No se pudieron cargar las ideas clave. Revisa tu conexión.')));
+}
+
 /* ---------- Render ---------- */
 function botonOir(items) {
   return h('button', { type: 'button', class: 'secondary full', onclick: () => Voz.reproducir(items) }, '🔊 Escuchar este mapa');
@@ -145,6 +178,7 @@ function botonOir(items) {
 
 function vistaMapas(sub) {
   const menu = [
+    ['ideas', '💡', 'Ideas clave por tema', '164 reglas esenciales por eje, para leer o escuchar'],
     ['organigrama', '🏛️', 'Estructura de la PGN', 'Dónde está tu oficina'],
     ['concurso', '🪜', 'El concurso paso a paso', 'De la convocatoria a la carrera'],
     ['quien', '🧩', '¿Quién hace qué?', 'Procurador, tu oficina, comisiones y divisiones'],
@@ -159,7 +193,7 @@ function vistaMapas(sub) {
     return;
   }
   const volver = h('a', { class: 'btn ghost', href: '#mapas' }, '← Mapas');
-  ({ organigrama: mapaOrganigrama, concurso: mapaConcurso, quien: mapaQuien, comisiones: mapaComisiones, prueba: mapaPrueba }[sub] || (() => vistaMapas()))(volver);
+  ({ ideas: mapaIdeas, organigrama: mapaOrganigrama, concurso: mapaConcurso, quien: mapaQuien, comisiones: mapaComisiones, prueba: mapaPrueba }[sub] || (() => vistaMapas()))(volver);
 }
 
 function mapaOrganigrama(volver) {

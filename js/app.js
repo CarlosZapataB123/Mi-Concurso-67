@@ -454,6 +454,10 @@ function vistaEscuchar() {
       botonNarrar('10 al azar', barajar(bancoPlan().map(q => q.id)).slice(0, 10)),
     )));
 
+  const ideasCont = h('div', { class: 'list' }, h('p', { class: 'muted small' }, 'Cargando…'));
+  nodos.push(h('h2', {}, 'Ideas clave por tema'), h('p', { class: 'muted small' }, 'Las reglas esenciales de cada eje de la Convocatoria 67, con su artículo.'), ideasCont);
+  listaIdeasAudio(ideasCont);
+
   nodos.push(h('h2', {}, 'Resúmenes por unidad'));
   const porTema = {};
   for (const id of ORDEN) (porTema[UNIDAD[id].tema] = porTema[UNIDAD[id].tema] || []).push(id);

@@ -1,0 +1,712 @@
+[
+{
+"parte": "Parte I. Conocimientos esenciales específicos",
+"tema": "1. Constitución Política y función pública",
+"ideas": [
+{
+"t": "Responsabilidad de particulares y servidores",
+"x": "Los particulares responden solo por infringir la Constitución y las leyes; los servidores, por lo mismo y además por omisión o extralimitación en sus funciones (art. 6 CP)."
+},
+{
+"t": "Igualdad real y efectiva",
+"x": "El art. 13 CP no se agota en la igualdad formal: obliga a promover condiciones para que la igualdad sea real y a proteger especialmente a quien está en debilidad manifiesta."
+},
+{
+"t": "Debido proceso también en el concurso",
+"x": "El debido proceso rige en toda actuación judicial y administrativa (art. 29 CP); por eso el DL 262 exige motivar la inadmisión y prevé reclamación y apelación (arts. 200 y 202)."
+},
+{
+"t": "Acceso a cargos públicos y mérito",
+"x": "El derecho a acceder a cargos públicos (art. 40, núm. 7 CP) se ejerce en la carrera mediante concurso (art. 125 CP), y la provisión sigue el orden estricto de la lista de elegibles (art. 216 DL 262)."
+},
+{
+"t": "Buena fe y documentos en fotocopia",
+"x": "Se presume la buena fe de los particulares ante las autoridades (art. 83 CP); en desarrollo de ello, los requisitos se acreditan en original o fotocopia simple (art. 198 DL 262)."
+},
+{
+"t": "Principios de la función administrativa",
+"x": "Igualdad, moralidad, eficacia, economía, celeridad, imparcialidad y publicidad, mediante descentralización, delegación y desconcentración (art. 209 CP)."
+},
+{
+"t": "Juramento y declaración de bienes",
+"x": "Ningún servidor ejerce su cargo sin prestar juramento; además declara bajo juramento bienes y rentas al posesionarse, al retirarse y cuando se le pida (art. 122 CP)."
+},
+{
+"t": "Quiénes son servidores públicos",
+"x": "Los miembros de corporaciones públicas y los empleados y trabajadores del Estado y de sus entidades descentralizadas (art. 123 CP). El contratista de prestación de servicios es un particular."
+},
+{
+"t": "Carrera como regla y sus excepciones",
+"x": "Los empleos son de carrera, salvo los de elección popular, libre nombramiento y remoción, trabajadores oficiales y los demás que determine la ley (art. 125 CP). El retiro procede por calificación no satisfactoria, violación del régimen disciplinario y causales legales; la \"confianza\" no es causal para un empleo de carrera."
+},
+{
+"t": "Nepotismo y su excepción por mérito",
+"x": "El art. 126 CP prohíbe nombrar parientes hasta el cuarto grado de consanguinidad, segundo de afinidad o primero civil, pero exceptúa los nombramientos por ingreso o ascenso por méritos en carrera."
+},
+{
+"t": "Prohibición de participación política",
+"x": "Los empleados de órganos de control, como la PGN, no pueden participar en actividades de partidos ni en controversias políticas, sin perjuicio de votar (art. 127 CP)."
+},
+{
+"t": "Doble asignación del tesoro",
+"x": "Nadie recibe más de una asignación del tesoro público, salvo excepciones legales (art. 128 CP); una de ellas son los honorarios por hora cátedra (Ley 4 de 1992, art. 19)."
+},
+{
+"t": "Carrera especial de la PGN",
+"x": "La CNSC administra y vigila las carreras, excepto las especiales (art. 130 CP); el ingreso, el concurso y el retiro en la PGN los regula su propia ley (art. 279 CP; Título XIV del DL 262)."
+},
+{
+"t": "Protección a la mujer gestante",
+"x": "En desarrollo del art. 43 CP, la provisionalidad de una servidora embarazada se prorroga hasta tres meses después del parto; el concurso sigue y el primero de la lista se nombra al vencer ese término (art. 189 DL 262)."
+},
+{
+"t": "Tutela: subsidiariedad e informe",
+"x": "Procede si no hay otro medio de defensa eficaz o como mecanismo transitorio (art. 86 CP). Si la entidad no rinde el informe en el plazo fijado (1 a 3 días), se presumen ciertos los hechos (Decreto 2591 de 1991, arts. 19 y 20). La impugnación del fallo se presenta dentro de 3 días (art. 31)."
+},
+{
+"t": "Acción de cumplimiento",
+"x": "Exige constituir en renuencia a la autoridad antes de acudir al juez (art. 87 CP; Ley 393 de 1997, art. 8)."
+},
+{
+"t": "Responsabilidad del Estado y repetición",
+"x": "El Estado responde por el daño antijurídico que le sea imputable (art. 90 CP) y debe repetir contra el agente que actuó con dolo o culpa grave (Ley 678 de 2001)."
+},
+{
+"t": "Delegación",
+"x": "La delegación exime de responsabilidad al delegante, que puede reformar o revocar los actos del delegatario reasumiendo la responsabilidad (art. 211 CP)."
+},
+{
+"t": "Nombrar y remover en la PGN",
+"x": "El Procurador nombra y remueve a los empleados de su dependencia conforme a la ley (art. 278, núm. 6 CP); en los concursos, el nombramiento recae en quien ocupa el primer puesto de la lista (art. 216 DL 262)."
+}
+]
+},
+{
+"parte": "Parte I. Conocimientos esenciales específicos",
+"tema": "2. Código de Procedimiento Administrativo y de lo Contencioso Administrativo (CPACA)",
+"ideas": [
+{
+"t": "Ámbito y la excepción del libre nombramiento",
+"x": "La Parte Primera se aplica a todas las entidades, incluidos los órganos autónomos, pero no al ejercicio de la facultad de libre nombramiento y remoción (art. 2). Se aplica sin perjuicio de los procedimientos de leyes especiales, como el del DL 262 para el concurso."
+},
+{
+"t": "Principio de eficacia",
+"x": "Las autoridades remueven obstáculos puramente formales y evitan decisiones inhibitorias (art. 3, núm. 11): un escrito mal titulado se tramita según su contenido."
+},
+{
+"t": "Carta de trato digno",
+"x": "Las autoridades deben expedir, hacer visible y actualizar cada año una carta de trato digno al usuario (art. 7, núm. 5)."
+},
+{
+"t": "Conflicto de interés",
+"x": "Hay conflicto cuando el servidor o sus parientes hasta el cuarto grado de consanguinidad, segundo de afinidad o primero civil tienen interés directo (art. 11, núm. 1); la actuación se remite como ordena el art. 12. En la calificación de servicios, una queja disciplinaria no genera impedimento (art. 233 DL 262)."
+},
+{
+"t": "Términos del derecho de petición",
+"x": "Regla general: 15 días. Documentos e información: 10 días, y si no se responde se entiende aceptada la solicitud y las copias se entregan en 3 días (silencio positivo). Consultas: 30 días (art. 14)."
+},
+{
+"t": "Ampliación del plazo para responder",
+"x": "Si no es posible responder a tiempo, se informa antes del vencimiento, con motivos y un nuevo plazo que no puede exceder el doble del inicial (art. 14, parágrafo)."
+},
+{
+"t": "Documentos que ya tiene la entidad",
+"x": "No se pueden exigir documentos que reposan en la entidad (art. 16, parágrafo); en la PGN, a los inscritos en carrera no se les piden los que están en su hoja de vida (art. 198, parágrafo, DL 262)."
+},
+{
+"t": "Petición incompleta y desistimiento tácito",
+"x": "Se requiere al peticionario dentro de 10 días para completar en máximo un mes; si no lo hace, se decreta el desistimiento por acto motivado, solo recurrible en reposición (art. 17)."
+},
+{
+"t": "Desistimiento expreso y peticiones reiterativas",
+"x": "Se puede desistir en cualquier tiempo, pero la autoridad puede seguir de oficio por interés público (art. 18). Ante peticiones reiterativas ya resueltas, puede remitirse a las respuestas anteriores (art. 19)."
+},
+{
+"t": "Atención prioritaria",
+"x": "Procede para el reconocimiento de un derecho fundamental cuando hay riesgo de perjuicio irremediable, probados sumariamente la titularidad y el riesgo (art. 20)."
+},
+{
+"t": "Autoridad sin competencia",
+"x": "Informa al interesado dentro de 5 días, remite al competente y envía copia del oficio; el término corre desde que el competente recibe (art. 21)."
+},
+{
+"t": "La PGN y el derecho de petición",
+"x": "Sus servidores deben prestar asistencia eficaz e inmediata a quien la pida para ejercer el derecho de petición (art. 23)."
+},
+{
+"t": "Reserva de las hojas de vida",
+"x": "Las hojas de vida, la historia laboral y los registros de personal son reservados; solo los pide el titular o quien él autorice expresamente (art. 24, núm. 3 y parágrafo). La reserva no es oponible a autoridades que la necesiten para sus funciones (art. 27)."
+},
+{
+"t": "Insistencia ante la reserva",
+"x": "Si el interesado insiste, decide en única instancia el Tribunal Administrativo del lugar donde están los documentos, cuando la autoridad es nacional (art. 26). Las pruebas del concurso son reservadas (art. 208 DL 262)."
+},
+{
+"t": "Conceptos y peticiones entre autoridades",
+"x": "Los conceptos que responden consultas no son obligatorios (art. 28). Una autoridad responde a otra en máximo 10 días (art. 30)."
+},
+{
+"t": "Corrección de errores formales",
+"x": "Puede hacerse en cualquier tiempo; no cambia el sentido de la decisión ni revive términos para demandar (art. 45)."
+},
+{
+"t": "Notificación",
+"x": "La personal entrega copia íntegra, auténtica y gratuita e indica recursos y plazos (art. 67). Si no se logra en 5 días tras la citación, se notifica por aviso, que se entiende surtida al día siguiente de su entrega (art. 69). Sin requisitos no produce efectos, salvo conducta concluyente, como interponer recursos (art. 72)."
+},
+{
+"t": "Actos generales",
+"x": "No son obligatorios mientras no se publiquen (art. 65) y contra ellos no proceden recursos (art. 75). La convocatoria es un acto general: se ataca con nulidad, que puede presentarse en cualquier tiempo (arts. 137 y 164)."
+},
+{
+"t": "Recursos",
+"x": "Se interponen dentro de los 10 días siguientes a la notificación (art. 76). La apelación es obligatoria para demandar; la reposición y la queja no (art. 76; art. 161). La queja procede cuando se rechaza la apelación, en 5 días (art. 74). El recurso sin sustentación se rechaza (arts. 77 y 78)."
+},
+{
+"t": "Silencio administrativo",
+"x": "La regla es el silencio negativo (art. 83); el positivo solo opera cuando la ley lo prevé (art. 84). Si en 2 meses no se resuelven los recursos, se entienden negados (art. 86). Excepción especial: en la insubsistencia por mala calificación, si no se resuelve la reposición en 30 días hábiles, se entiende revocada (art. 235 DL 262)."
+},
+{
+"t": "Firmeza, presunción de legalidad y decaimiento",
+"x": "El acto queda en firme al día siguiente de vencer el término de recursos sin interponerlos (art. 87). Se presume legal y solo la jurisdicción lo suspende (art. 88). Pierde fuerza ejecutoria si desaparecen sus fundamentos (art. 91, núm. 2)."
+},
+{
+"t": "Revocatoria directa",
+"x": "Causales: oposición a la Constitución o la ley, interés público y agravio injustificado (art. 93). Procede aunque se haya demandado, si no se ha notificado el auto admisorio (art. 95). Un acto particular, como la lista de elegibles, no se revoca sin consentimiento expreso del titular (art. 97)."
+},
+{
+"t": "Nulidad y restablecimiento",
+"x": "Contra actos particulares, con caducidad de 4 meses desde su comunicación, notificación, ejecución o publicación (arts. 138 y 164, núm. 2, lit. d)."
+}
+]
+},
+{
+"parte": "Parte I. Conocimientos esenciales específicos",
+"tema": "3. Código Sustantivo del Trabajo",
+"ideas": [
+{
+"t": "A quién se aplica",
+"x": "Regula las relaciones individuales particulares y las colectivas (art. 3); no las de la administración con sus empleados públicos, que tienen estatuto propio (art. 4). El servidor de la PGN se rige por el DL 262."
+},
+{
+"t": "Contrato realidad",
+"x": "Se presume contrato de trabajo en toda relación de trabajo personal (art. 24); con prestación personal, subordinación y salario existe, sin importar el nombre (art. 23). Subordinación es poder dar órdenes sobre modo, tiempo o cantidad del trabajo (art. 23, lit. b)."
+},
+{
+"t": "Solidaridad del beneficiario",
+"x": "El dueño de la obra responde solidariamente con el contratista independiente, salvo labores extrañas a su actividad (art. 34)."
+},
+{
+"t": "Contrato a término fijo",
+"x": "Se prorroga por igual período si nadie avisa por escrito con 30 días de antelación (art. 46). Su período de prueba no excede la quinta parte del término, ni dos meses (art. 78), y debe pactarse por escrito (art. 77)."
+},
+{
+"t": "Período de prueba",
+"x": "Cualquiera de las partes lo termina sin aviso; el trabajador conserva salarios y prestaciones causados (art. 80)."
+},
+{
+"t": "Suspensión del contrato",
+"x": "Durante una licencia o permiso temporal se suspenden servicio y salario, y ese tiempo puede descontarse de vacaciones, cesantías y jubilación (arts. 51 y 53)."
+},
+{
+"t": "Terminación y causal",
+"x": "Quien termina debe expresar la causal en ese momento; después no puede alegar otra (art. 62, parágrafo)."
+},
+{
+"t": "Indemnización por despido sin justa causa",
+"x": "Término fijo: los salarios del tiempo que falte. Indefinido con menos de 10 SMMLV: 30 días el primer año y 20 por cada año siguiente (art. 64)."
+},
+{
+"t": "Indemnización moratoria",
+"x": "Un día de salario por cada día de retardo en el pago al terminar el contrato, hasta 24 meses (art. 65)."
+},
+{
+"t": "Fuero de maternidad",
+"x": "Se presume que el despido sin autorización durante el embarazo o las 18 semanas posteriores al parto obedece a ese motivo; da derecho a 60 días de salario adicionales (art. 239)."
+},
+{
+"t": "Sanciones disciplinarias",
+"x": "El trabajador debe ser oído antes de sancionarlo; sin ese trámite la sanción no produce efecto (art. 115)."
+},
+{
+"t": "Salario y salario integral",
+"x": "Es salario todo lo que retribuye directamente el servicio (art. 127); no lo son los pagos ocasionales por mera liberalidad (art. 128). El salario integral no puede ser inferior a 13 SMMLV: 10 más un factor prestacional mínimo del 30 % (art. 132)."
+},
+{
+"t": "Jornada y recargos",
+"x": "La Ley 2101 de 2021 redujo gradualmente la jornada máxima: desde el 15 de julio de 2026 es de 42 horas semanales (art. 161). El trabajo extra nocturno tiene recargo del 75 % (art. 168)."
+},
+{
+"t": "Vacaciones y prestaciones",
+"x": "Deben disfrutarse al menos 6 días hábiles continuos al año; los demás pueden acumularse hasta 2 años (4 para cargos de confianza o técnicos) (art. 190). Puede pagarse en dinero hasta la mitad (art. 189). Cesantías: se consignan antes del 15 de febrero (Ley 50 de 1990, art. 99), con intereses del 12 % anual. Prima de servicios: 30 días por año, en junio y diciembre (art. 306)."
+},
+{
+"t": "Licencia de maternidad vigente",
+"x": "Son 18 semanas (art. 236, modificado por la Ley 1822 de 2017), y la pareja puede compartir las últimas 6 (Ley 2114 de 2021). Para las servidoras públicas rige lo mismo, porque las licencias de maternidad se gobiernan por la seguridad social; el art. 125 del DL 262 (12 semanas) quedó superado."
+}
+]
+},
+{
+"parte": "Parte I. Conocimientos esenciales específicos",
+"tema": "4. Normas sobre carrera administrativa (Decreto Ley 262 de 2000)",
+"ideas": [
+{
+"t": "Qué es la carrera de la PGN",
+"x": "Un sistema técnico de administración de personal para garantizar eficiencia, igualdad de oportunidades, estabilidad y ascenso (art. 183). El mérito es el criterio exclusivo: ni raza, ni religión, ni sexo, ni filiación política."
+},
+{
+"t": "Ley 909 solo supletoria",
+"x": "La Ley 909 de 2004 se aplica a la carrera de la PGN solo para llenar vacíos (art. 3 Ley 909); donde el DL 262 regula, prevalece."
+},
+{
+"t": "Clasificación de los empleos",
+"x": "Son de carrera, salvo la lista taxativa de libre nombramiento y remoción del art. 182 (Viceprocurador, Secretario General, Jefe de Oficina, Asesor del Despacho del Procurador, procuradores delegados, regionales, distritales, provinciales, entre otros). La expresión \"Procurador Judicial\" fue declarada inexequible (C-101 de 2013): ese empleo es de carrera."
+},
+{
+"t": "Encargo y provisionalidad",
+"x": "El encargo en empleo de carrera exige inscripción en carrera, calificación sobresaliente y 70 % en reinducción; por razones del servicio puede nombrarse un provisional (art. 185). Ambos duran hasta 6 meses, prorrogables 6 más y hasta que termine el concurso (art. 188), y el concurso debe convocarse dentro de 3 meses (art. 185). El encargo en empleos de libre nombramiento tiene regla propia (art. 89)."
+},
+{
+"t": "Orden para proveer un empleo de carrera",
+"x": "Primero el inscrito desplazado por violencia; luego el reintegro judicial; luego el inscrito con cargo suprimido; y al final, la lista de elegibles (art. 190)."
+},
+{
+"t": "Concurso abierto y de ascenso",
+"x": "El abierto admite externos e inscritos (art. 192, núm. 1). El de ascenso es para ascender en cargos de carrera; la palabra \"sólo\" de su regla fue declarada inexequible (C-266 de 2002). Se convoca de ascenso si hay al menos 5 inscritos con requisitos; si se admiten menos de 5, se declara desierto y pasa a abierto sin nueva inscripción (arts. 192 y 215)."
+},
+{
+"t": "Requisitos para el ascenso",
+"x": "Última calificación de al menos 70 %, ninguna sanción disciplinaria en el año anterior y 70 % en reinducción (art. 193)."
+},
+{
+"t": "Financiación de los concursos",
+"x": "Se financian con los derechos de inscripción que pagan los aspirantes (art. 192, parágrafo 2, adicionado por la Ley 2457 de 2025)."
+},
+{
+"t": "Etapas del proceso",
+"x": "Convocatoria, reclutamiento, pruebas, lista de elegibles, período de prueba y calificación del período de prueba (art. 194)."
+},
+{
+"t": "La convocatoria",
+"x": "Es la norma reguladora del concurso: sus bases no cambian iniciada la inscripción, salvo sitio, fecha u hora (art. 195). La diseña la Oficina de Selección y Carrera y la suscribe el Procurador o su delegado (art. 196). Se divulga con al menos 15 días hábiles de anticipación (art. 197). Un error en datos esenciales obliga a dejar sin efecto el concurso (art. 196)."
+},
+{
+"t": "Inscritos y admitidos",
+"x": "Con menos de 5 inscritos en concurso abierto se amplía el plazo por un término igual; sin al menos 3 admitidos no hay concurso (art. 201)."
+},
+{
+"t": "Reclamación de no admitidos",
+"x": "2 días hábiles ante el jefe de Selección y Carrera, que resuelve en 5; apelación ante la Comisión de Carrera. No se tienen en cuenta documentos no aportados en la inscripción (art. 202)."
+},
+{
+"t": "Pruebas",
+"x": "El análisis de antecedentes es obligatorio, con al menos dos pruebas más, una eliminatoria y una escrita (art. 203). La entrevista no supera el 20 % ni es eliminatoria (art. 204). El jefe de Selección y Carrera responde por las pruebas y custodia los bancos de preguntas; el Procurador puede contratar su elaboración, calificación o aplicación (art. 206). Las pruebas son reservadas (art. 208)."
+},
+{
+"t": "Reclamaciones contra resultados",
+"x": "2 días hábiles (art. 212). Errores aritméticos: jefe de la Oficina, única instancia, 5 días. Puntaje de preguntas abiertas: el jurado, única instancia. Estructura y contenido de las pruebas: el jurado y, en segunda instancia, la Comisión de Carrera. Contra la entrevista no hay reclamación."
+},
+{
+"t": "Publicación con cédula",
+"x": "La información de los aspirantes se publica con el número de cédula, no con el nombre (art. 213, parágrafo)."
+},
+{
+"t": "Irregularidades",
+"x": "Cualquier persona, dentro de 3 días hábiles, puede pedir a la Comisión de Carrera que investigue; esta tiene máximo 10 días (art. 214)."
+},
+{
+"t": "Concurso desierto",
+"x": "Si hay menos de 5 aspirantes con requisitos (salvo necesidades del servicio), si nadie supera la eliminatoria o si en ascenso se admiten menos de 5 inscritos. Se convoca de nuevo dentro de 30 días hábiles (art. 215)."
+},
+{
+"t": "Lista de elegibles",
+"x": "Entra quien obtiene al menos el 70 % del puntaje total; orden estricto de mérito; vigencia de 2 años; la expide el Procurador por resolución (art. 216). En empate en el primer lugar decide el mayor puntaje en conocimientos. El nombramiento se hace dentro de 20 días hábiles (art. 217)."
+},
+{
+"t": "Nombramiento y posesión",
+"x": "Comunicación en 8 días y aceptación en 8; Gestión Humana verifica requisitos antes de la posesión; posesión en 15 días, prorrogable una vez hasta 30 (art. 84)."
+},
+{
+"t": "Período de prueba",
+"x": "4 meses; si se aprueba, inscripción en el Registro Único de Carrera; si no, insubsistencia con solo reposición en 3 días, que se resuelve en 30 (art. 218). Se prorroga si las funciones se interrumpen más de 10 días; no se cambian funciones ni se da licencia no remunerada, salvo fuerza mayor (art. 219). No hay período de prueba en ascenso sin cambio de nivel (art. 88)."
+},
+{
+"t": "Inhabilidades",
+"x": "Condena a pena privativa de la libertad, salvo delitos políticos o culposos; condena por delitos contra el patrimonio del Estado, sin excepción; detención preventiva (la parte sobre \"resolución de acusación\" cayó con la C-427 de 2023); reincidencia disciplinaria (5 años); retiro por calificación insatisfactoria (2 años) (art. 85). Si la detención sobreviene ya posesionado, el servidor se suspende hasta que termine el proceso penal."
+},
+{
+"t": "Incompatibilidades",
+"x": "Desempeñar otro empleo (salvo docencia e investigación académica), ser árbitro, conciliador o amigable componedor fuera de su cargo, o ser miembro activo de la fuerza pública (art. 86)."
+},
+{
+"t": "Movimientos de personal",
+"x": "El traslado definitivo exige empleo de igual naturaleza, categoría, nomenclatura y remuneración (art. 87). Un empleo de manejo o confianza no se abandona hasta que el reemplazo asuma (art. 83)."
+},
+{
+"t": "Retiro del servicio",
+"x": "14 causales taxativas (art. 158). La renuncia se acepta por escrito dentro de 30 días calendario; si no, el servidor puede separarse sin abandono (arts. 161 y 163). La insubsistencia discrecional solo aplica a libre nombramiento y no tiene recurso (art. 165). Abandono: 3 días hábiles de ausencia, entre otros supuestos, con 15 días para justificarse (arts. 166 y 167). Retiro forzoso a los 65 años, sin reintegro (art. 171)."
+},
+{
+"t": "Revocatoria del nombramiento",
+"x": "Entre sus 6 causales: que el nombrado esté incurso en inhabilidad, incompatibilidad o impedimento (art. 169)."
+},
+{
+"t": "Comisiones",
+"x": "La de servicio es un deber, no una forma de provisión, y nunca es permanente (arts. 94 y 96). Un inscrito puede ir en comisión a un empleo de libre nombramiento hasta 3 años sin perder sus derechos (art. 97); si se posesiona sin comisión, pierde la carrera (arts. 236 y 237). La de estudio exige 3 años de servicio, calificación satisfactoria y ninguna sanción en 3 años, y dura máximo 3 años; la especial, 2 (arts. 99, 100 y 105). Si la separación es de 6 meses o más, se firma convenio para servir el doble del tiempo (art. 101), previo a la comisión (art. 102)."
+},
+{
+"t": "Comisión de Carrera",
+"x": "La preside el Procurador o su delegado; la integran también el Director del Instituto de Estudios (hoy Universidad del Ministerio Público, Ley 2553 de 2025), un representante de los delegados y dos de los empleados de carrera. El jefe de Selección y Carrera es secretario, con voz y sin voto. Período de 2 años, una reelección; carga funcional reducible hasta 50 % (art. 239). Para ser representante hay que estar inscrito en carrera y no tener sanción en el último año (art. 246)."
+},
+{
+"t": "Funciones de la Comisión de Carrera",
+"x": "Vigilar la carrera, asesorar al Procurador, recibir copia de convocatorias, pedir que se modifique la lista de elegibles, investigar irregularidades, resolver en segunda instancia y adoptar los instrumentos de calificación de servicios (arts. 223 y 240)."
+},
+{
+"t": "Comisión de Personal",
+"x": "2 representantes del Procurador y 1 de los servidores, por 2 años; secretario: el jefe de Gestión Humana, con voz y sin voto (art. 70). Emite concepto previo en traslados definitivos de sede de servidores de carrera (art. 71, núm. 4)."
+}
+]
+},
+{
+"parte": "Parte I. Conocimientos esenciales específicos",
+"tema": "5. Gestión del talento humano",
+"ideas": [
+{
+"t": "Para qué sirve la calificación",
+"x": "Valora la gestión para mejorar a los empleados de carrera y verificar a los de período de prueba (art. 223). Se usa para adquirir derechos de carrera, la permanencia, estímulos, ascenso, capacitación, becas y comisiones de estudio (art. 224)."
+},
+{
+"t": "Qué se califica",
+"x": "Calidad, eficiencia o rendimiento, responsabilidad y organización del trabajo (art. 225). Los instrumentos los adopta la Comisión de Carrera; la Oficina de Selección y Carrera los diseña y vela por su aplicación (arts. 223, 240 y 12)."
+},
+{
+"t": "Cómo se obtiene la calificación",
+"x": "Es la evaluación de todo el período o el promedio ponderado por tiempo de las evaluaciones parciales (art. 226). El período anual va del 1 de mayo al 30 de abril (art. 230)."
+},
+{
+"t": "Plazo para calificar",
+"x": "15 días hábiles después del vencimiento del período, so pena de mala conducta; si no se hace, el servidor pide al superior del calificador que ordene calificar (art. 227)."
+},
+{
+"t": "Evaluaciones parciales",
+"x": "Por retiro o traslado del calificador (antes de dejar el cargo) y por separación temporal del evaluado de más de 30 días calendario (art. 228). Si el período vence durante una licencia, cuenta el tiempo laborado hasta su inicio; tras un ascenso, cuenta el tiempo en el nuevo empleo."
+},
+{
+"t": "Calificación extraordinaria",
+"x": "El Procurador puede ordenarla ante información soportada de bajo desempeño, siempre que hayan pasado 3 meses desde la última (art. 230)."
+},
+{
+"t": "Insubsistencia por mala calificación",
+"x": "Solo procede reposición; si no se resuelve en 30 días hábiles, se entiende revocada y la calificación queda satisfactoria con el puntaje mínimo (art. 235)."
+},
+{
+"t": "Indemnización por supresión",
+"x": "Escala por años de servicio; por ejemplo, de 5 a 10 años: 45 días el primer año y 20 por cada año siguiente, sobre el salario promedio del último año (art. 238)."
+},
+{
+"t": "Licencias y permisos",
+"x": "Licencia ordinaria hasta 3 meses al año, que concede el Procurador, renunciable con 3 días de aviso (arts. 111, 113 y 115). Licencia deportiva hasta 90 días (arts. 129 y 130). Permisos remunerados de 5 días al mes para altos funcionarios y 3 para los demás, más 3 por calamidad (art. 132). Lactancia: 1 hora diaria por 6 meses (art. 137)."
+},
+{
+"t": "Vacaciones",
+"x": "22 días calendario por año; prima de 15 días de salario (arts. 139 y 149). Se piden con 45 días de anticipación (art. 140), se acumulan máximo por 3 años (art. 141) y prescriben en 3 años (art. 146). Si faltan 30 días o menos para el año, se compensan como completas (art. 151). El 17 de diciembre es el día judicial de la entidad (art. 138)."
+},
+{
+"t": "Estímulos",
+"x": "Los estímulos por excelencia nunca son pecuniarios (art. 254). El Comité de Estímulos lo integran el Viceprocurador o su delegado, el Secretario General, el Director del Instituto de Estudios, el representante de los empleados en la Comisión de Personal y un representante de los empleados de carrera (art. 257); recomienda cada año al mejor empleado de carrera y a los mejores grupos (art. 258)."
+},
+{
+"t": "Capacitación, inducción y reinducción",
+"x": "La capacitación atiende las deficiencias detectadas en la evaluación (arts. 224 y 251). Inducción en los primeros 4 meses, cuyo aprovechamiento cuenta en el período de prueba; reinducción al menos cada 2 años, con prueba final (art. 253). Un 70 % en reinducción es requisito para encargo y ascenso."
+},
+{
+"t": "Situaciones administrativas del régimen general",
+"x": "En el régimen general (Decreto 1083 de 2015), la comisión de servicios ejerce el cargo en otra sede con remuneración, y la licencia ordinaria separa sin sueldo. Los niveles jerárquicos son directivo, asesor, profesional, técnico y asistencial (Decreto 1785 de 2014)."
+}
+]
+},
+{
+"parte": "Parte I. Conocimientos esenciales específicos",
+"tema": "6. Conocimientos del área disciplinar: psicometría y selección por competencias",
+"ideas": [
+{
+"t": "Confiabilidad y validez",
+"x": "Confiabilidad es consistencia de las puntuaciones; validez, el respaldo de las interpretaciones para un uso (Estándares AERA-APA-NCME, 2014). Una prueba puede ser confiable sin ser válida."
+},
+{
+"t": "Cómo se estima la confiabilidad",
+"x": "KR-20 es el alfa de Cronbach para ítems dicotómicos, con una sola aplicación; test-retest exige dos; kappa mide acuerdo entre jueces."
+},
+{
+"t": "Error típico de medida",
+"x": "SEM = DE × √(1 − r). Con DE 10 y r 0,91, SEM = 3; la banda del 95 % es de unos ±5,9 puntos: no conviene sobreinterpretar diferencias pequeñas."
+},
+{
+"t": "Puntuaciones estándar",
+"x": "z = (X − media) / DE; T = 50 + 10z. Expresan la posición relativa y permiten comparar formas de distinta dificultad; no eliminan el error de medida. La Resolución 076 de 2026 prevé calificaciones estándar en las pruebas escritas."
+},
+{
+"t": "Dificultad y discriminación",
+"x": "La dificultad es la proporción que acierta; los ítems cercanos a 0,50 suelen discriminar mejor. Discriminación de 0,40 o más es muy buena y menos de 0,20, deficiente (Ebel). Una discriminación negativa es una alarma: revisar clave, ambigüedad o distractores."
+},
+{
+"t": "Distractores",
+"x": "El que nadie elige no aporta; el que atrae más a los mejores que la clave indica un problema del ítem."
+},
+{
+"t": "Evidencias de validez",
+"x": "De contenido: tabla de especificaciones y juicio de expertos. Convergente y discriminante: matriz multirrasgo-multimétodo (Campbell y Fiske, 1959). Predictiva: correlación con un criterio posterior, como el período de prueba; la restricción de rango la subestima y se corrige."
+},
+{
+"t": "Equidad",
+"x": "Hay funcionamiento diferencial del ítem cuando personas del mismo nivel tienen distinta probabilidad de acertarlo según su grupo; el ítem se revisa."
+},
+{
+"t": "Diseño de ítems",
+"x": "Distribuir ítems según el peso de cada eje; evitar \"todas\" o \"ninguna de las anteriores\"; opciones homogéneas en longitud; enunciados autosuficientes y distractores plausibles (Haladyna y Rodríguez, 2013)."
+},
+{
+"t": "Competencias",
+"x": "Modelo del iceberg (Spencer y Spencer, 1993): conocimientos y habilidades son visibles y entrenables; motivos, rasgos y autoconcepto son centrales y difíciles de cambiar, por eso se evalúan al seleccionar."
+},
+{
+"t": "Predictores en selección",
+"x": "Capacidad mental general, muestras de trabajo y entrevistas estructuradas están entre los más válidos; años de educación o experiencia, baja validez; grafología, casi nula (Schmidt y Hunter, 1998)."
+},
+{
+"t": "Modelo de decisión de la Convocatoria 67",
+"x": "Obstáculos múltiples: quien no supera 65 en conocimientos sale del concurso. Luego se pondera 70 % conocimientos, 20 % comportamentales y 10 % antecedentes, y se necesita al menos 70 para la lista de elegibles (art. 216; Resolución 076 de 2026)."
+},
+{
+"t": "Evaluación del desempeño",
+"x": "Las escalas ancladas en conductas (BARS) reducen la subjetividad, y entrenar a los evaluadores con un marco de referencia común mejora la precisión. La lenidad es calificar alto a todos sin diferenciar."
+}
+]
+},
+{
+"parte": "Parte II. Conocimientos esenciales comunes",
+"tema": "7. Estructura y funciones de la Procuraduría General de la Nación",
+"ideas": [
+{
+"t": "Naturaleza jurídica",
+"x": "Máximo organismo del Ministerio Público, con autonomía administrativa, financiera y presupuestal, bajo la suprema dirección del Procurador General (art. 1)."
+},
+{
+"t": "Estructura",
+"x": "Nivel central: Despacho del Procurador, Despacho del Viceprocurador, Salas Disciplinarias, Procuradurías Delegadas, Instituto de Estudios (hoy Universidad del Ministerio Público), Secretaría General y Veeduría. Nivel territorial: procuradurías regionales, distritales y provinciales, cada una de instrucción y de juzgamiento (art. 2, modificado por el DL 1851 de 2021)."
+},
+{
+"t": "Despacho del Procurador",
+"x": "Procuradurías auxiliares para asuntos constitucionales y disciplinarios, Dirección Nacional de Investigaciones Especiales y oficinas de Tecnología, Planeación, Selección y Carrera, Control Interno, Prensa y Jurídica, sin jerarquía entre ellas (art. 2, num. 1.1)."
+},
+{
+"t": "Despacho del Viceprocurador",
+"x": "Dirección de Apoyo Estratégico (con la División de Registro de Sanciones), y divisiones de Relacionamiento con el Ciudadano, Documentación y Seguridad (art. 2, num. 1.2). Los artículos 66, 67 y 68 están derogados (DL 1851 de 2021)."
+},
+{
+"t": "Dependencia del nivel territorial",
+"x": "Regionales y distritales dependen del Procurador; provinciales, de su regional (art. 80)."
+},
+{
+"t": "Elección y reemplazo del Procurador",
+"x": "Lo elige el Senado de terna del Presidente, la Corte Suprema y el Consejo de Estado (art. 3). En falta absoluta, el Viceprocurador ejerce el cargo y la nueva elección se convoca en 30 días (art. 6). Sus incompatibilidades exceptúan la docencia (art. 5)."
+},
+{
+"t": "Poder disciplinario preferente",
+"x": "El Procurador puede asumir cualquier proceso por su trascendencia (art. 7, núms. 15 y 16; Ley 1952 de 2019, art. 3). Crear comisiones especiales es una facultad distinta (núm. 18)."
+},
+{
+"t": "Funciones del Procurador sobre la carrera",
+"x": "Ejerce la suprema dirección del sistema de carrera: define políticas de pruebas, adopta instrumentos, designa jurados, define y suscribe las convocatorias, declara desiertos los concursos, y, a solicitud de la Comisión de Carrera, excluye de la lista o revoca nombramientos irregulares; fija las políticas de estudios sobre carrera (art. 7, núm. 40)."
+},
+{
+"t": "Otras funciones del Procurador",
+"x": "Informe anual al Congreso (núm. 4); revocar actos propios y de servidores de la entidad (núms. 22 y 23); impedimentos de su despacho, el Viceprocurador, el Secretario General y los delegados ante las comisiones de Personal y de Carrera (núm. 26); crear comités asesores y grupos de trabajo (núm. 29); reubicar la planta global (núm. 34) y fijar sede de empleos de asesor (núm. 35); expedir manuales de funciones (núm. 36); evaluaciones periódicas solo a libre nombramiento (núm. 39); conceder comisiones (núm. 49); posesionar al Viceprocurador, delegados, auxiliares, directores y Secretario General (núm. 52)."
+},
+{
+"t": "Delegación con reasunción",
+"x": "El Procurador puede delegar funciones de las delegadas y reasumirlas en cualquier momento (art. 7, parágrafo), con más flexibilidad que la delegación de la Ley 489."
+},
+{
+"t": "Procuradurías auxiliares",
+"x": "La constitucional supervigila el derecho de petición y proyecta conceptos del art. 278 CP (art. 8); la disciplinaria proyecta decisiones del Procurador y emite conceptos unificados (art. 9)."
+},
+{
+"t": "Oficinas técnicas",
+"x": "Planeación elabora los manuales de funciones para aprobación del Procurador (art. 11, núm. 7). Selección y Carrera administra los concursos y el registro de carrera (art. 12). Jurídica representa judicialmente a la entidad (art. 15). Tecnología dirige la seguridad informática (art. 16, núm. 4)."
+},
+{
+"t": "Viceprocurador",
+"x": "Asume las funciones en ausencias temporales y en caso de impedimento del Procurador (art. 17, núms. 2 y 3). Sus comités técnicos solo cubren funciones misionales (art. 17, núm. 6)."
+},
+{
+"t": "Secretaría General",
+"x": "Depende del Procurador. Diseña planes de desarrollo humano, expide copias auténticas, posesiona a los niveles directivo, asesor y ejecutivo no reservados al Procurador, reconoce vacaciones y permisos de estudio de más de 2 horas, y reconoce viáticos (art. 62)."
+},
+{
+"t": "División de Gestión Humana",
+"x": "Conserva hojas de vida y certifica, verifica requisitos antes de la posesión, posesiona a los niveles profesional, técnico, administrativo y operativo del nivel central, concede permisos de estudio de hasta 2 horas, elabora nóminas, apoya a la Comisión de Carrera y organiza la elección ante la Comisión de Personal (art. 63)."
+},
+{
+"t": "Divisiones Administrativa y Financiera",
+"x": "La Administrativa maneja bienes, inventario, proveedores y compras (art. 64). La Financiera dirige el manejo financiero, expide certificados de disponibilidad, vigila órdenes de pago y cajas menores y suministra información a los organismos de control (art. 65)."
+},
+{
+"t": "Coordinaciones Administrativas",
+"x": "Tienen sede en las regionales, pero sus servidores dependen del Secretario General (art. 69)."
+},
+{
+"t": "Delegadas y judiciales",
+"x": "Los delegados dependen del Procurador (art. 23); los judiciales, del delegado coordinador (art. 48). Judiciales I equivalen a provinciales y II a regionales cuando se les delega lo disciplinario (art. 39). Si concurren una delegada y una territorial, conoce la delegada (art. 25)."
+},
+{
+"t": "Régimen disciplinario interno",
+"x": "La Sala de Instrucción conoce de los altos funcionarios internos (art. 72); la Veeduría, de los demás servidores de la entidad (art. 73). Segunda instancia: Viceprocurador; doble conformidad: Procurador (art. 74)."
+},
+{
+"t": "Instituto de Estudios",
+"x": "La Ley 2553 de 2025 lo transformó en la Universidad del Ministerio Público y derogó los artículos 49 a 61 del DL 262; las normas que aún lo mencionan (arts. 7, 239 y 257) deben leerse con esa nota."
+},
+{
+"t": "Ley 489 aplicada a la PGN",
+"x": "Los principios de la función administrativa se aplican a los órganos de control (art. 3); la PGN se integra funcionalmente, pero conserva su régimen especial (arts. 39 y 40). El control preventivo no es coadministración."
+}
+]
+},
+{
+"parte": "Parte II. Conocimientos esenciales comunes",
+"tema": "8. Gestión pública y funcionamiento del Estado",
+"ideas": [
+{
+"t": "Fundamentos del Estado",
+"x": "Colombia se funda en la dignidad humana, el trabajo, la solidaridad y la prevalencia del interés general (art. 1 CP)."
+},
+{
+"t": "Formas de distribuir funciones",
+"x": "Desconcentración (dentro de la misma persona jurídica), delegación (acto revocable) y descentralización (crea otra persona jurídica)."
+},
+{
+"t": "Sector central y descentralizado",
+"x": "Ministerios y departamentos administrativos no tienen personería jurídica (sector central). Superintendencias y unidades especiales: con personería, sector descentralizado; sin ella, central (Ley 489, art. 82). Establecimientos públicos cumplen funciones administrativas; empresas industriales y comerciales tienen capital 100 % público; sociedades de economía mixta combinan capitales."
+},
+{
+"t": "Adscripción y vinculación",
+"x": "Adscripción (establecimientos públicos, superintendencias): control más intenso. Vinculación (empresas industriales y comerciales, sociedades de economía mixta): más autonomía."
+},
+{
+"t": "El Presidente",
+"x": "Jefe de Estado, Jefe de Gobierno y suprema autoridad administrativa. La reelección solo puede reformarse por referendo de iniciativa popular o asamblea constituyente (AL 02 de 2015)."
+},
+{
+"t": "Control político",
+"x": "La moción de censura procede contra ministros, superintendentes y directores de departamento administrativo; la propone una décima parte de la cámara y la aprueba la mayoría absoluta; la renuncia del citado no la detiene (art. 135 CP)."
+},
+{
+"t": "Control de los actos",
+"x": "El Consejo de Estado controla los decretos reglamentarios (nulidad); la Corte Constitucional, leyes, actos legislativos y decretos con fuerza de ley. Los decretos de estados de excepción tienen control automático."
+},
+{
+"t": "Estados de excepción",
+"x": "Guerra exterior, conmoción interior y emergencia económica, social y ecológica (máximo 30 días por declaratoria y 90 al año)."
+},
+{
+"t": "Tipos de leyes",
+"x": "Las estatutarias (partidos, derechos fundamentales, funciones electorales) exigen mayoría absoluta, una sola legislatura y control previo de la Corte."
+},
+{
+"t": "Organismos de control",
+"x": "La PGN tiene funciones preventiva, de intervención y disciplinaria, que pueden ejercerse a la vez. La Defensoría promueve los derechos humanos sin potestad disciplinaria. La Contraloría ejerce control fiscal posterior y selectivo, y excepcionalmente preventivo, sin coadministrar."
+},
+{
+"t": "Ministerio Público",
+"x": "Lo ejercen el Procurador, el Defensor del Pueblo, los delegados y agentes, y los personeros municipales; los personeros no son subordinados de las dependencias de la PGN (art. 118 CP)."
+},
+{
+"t": "Organización electoral",
+"x": "El CNE (9 miembros, elegidos por el Congreso) declara la elección; la Registraduría organiza las elecciones y verifica firmas; el Registrador se elige por concurso."
+},
+{
+"t": "Participación ciudadana",
+"x": "El cabildo abierto es deliberativo y no vinculante; la revocatoria del mandato solo aplica a gobernadores y alcaldes; las veedurías ciudadanas son autónomas y no remuneradas por la entidad vigilada (Ley 850 de 2003)."
+},
+{
+"t": "Acciones constitucionales",
+"x": "Popular: derechos colectivos, sin indemnizar. De grupo: perjuicios individuales de causa común. Habeas corpus: ante cualquier juez, resuelto en 36 horas."
+},
+{
+"t": "Organización territorial",
+"x": "Son entidades territoriales por derecho propio los departamentos, distritos, municipios y territorios indígenas; regiones y provincias requieren ley (art. 286 CP). Principios de coordinación, concurrencia y subsidiariedad (art. 288 CP). Los concejos son corporaciones administrativas: sus acuerdos son actos administrativos."
+},
+{
+"t": "Transparencia",
+"x": "Toda información pública se presume accesible, sin exigir interés ni motivación (Ley 1712 de 2014, art. 2). Clasificada: protege derechos de terceros; reservada: protege intereses públicos (arts. 18 y 19)."
+},
+{
+"t": "Bienes, rentas y conflictos de interés",
+"x": "Se declaran al posesionarse, cada año y al retirarse (Ley 2013 de 2019)."
+},
+{
+"t": "MIPG y control interno",
+"x": "El MIPG tiene 7 dimensiones e integra, sin derogarlo, el sistema de control interno de la Ley 87 de 1993. Autocontrol: cada jefe responde por el control interno de su área. La Oficina de Control Interno evalúa con independencia y recomienda; no decide los trámites que luego evalúa."
+},
+{
+"t": "Contratación estatal",
+"x": "La licitación es la regla; la mínima cuantía (hasta el 10 % de la menor cuantía) se decide por precio; el concurso de méritos se usa para consultorías y diseños (Ley 1150 de 2007)."
+},
+{
+"t": "Gestión documental",
+"x": "El ciclo vital tiene archivo de gestión, central e histórico (Ley 594 de 2000); la ley aplica a todas las entidades, y el Archivo General de la Nación fija lineamientos obligatorios."
+},
+{
+"t": "Responsabilidades independientes",
+"x": "Fiscal, disciplinaria y penal son autónomas: un mismo hecho puede generar las tres (Ley 1952 de 2019; Ley 599 de 2000)."
+}
+]
+},
+{
+"parte": "Parte III. Tu cargo: Asesor 1AS-19 de la Oficina de Selección y Carrera",
+"tema": "9. Lo que conviene saber del propio empleo",
+"ideas": [
+{
+"t": "Dónde está tu oficina",
+"x": "En el Despacho del Procurador General (art. 2, num. 1.1.6), no en la Secretaría General ni en el Despacho del Viceprocurador. El \"proceso de talento humano\" de la convocatoria no cambia esa ubicación."
+},
+{
+"t": "Naturaleza del empleo",
+"x": "Es de carrera: el art. 182 enumera como de libre nombramiento al Jefe de Oficina y al Asesor del Despacho del Procurador, pero no a los asesores de las oficinas; por eso se provee por concurso."
+},
+{
+"t": "Quién te posesiona",
+"x": "La Secretaría General, porque el nivel Asesor está en el art. 62, núm. 5, y no es de los cargos que posesiona el Procurador (art. 7, núm. 52). Antes, Gestión Humana verifica requisitos (art. 63, núm. 7)."
+},
+{
+"t": "Funciones de la oficina (art. 12)",
+"x": "Asesorar en políticas de carrera; ejecutar los procesos de selección; elaborar convocatorias y formularios; elaborar y aplicar pruebas y custodiar los bancos de preguntas; proyectar actos de desierto; resolver errores aritméticos (única instancia) y reclamaciones de no admitidos (primera instancia); llevar el Registro Único de Carrera; dirigir la elección ante la Comisión de Carrera; velar por la calificación de servicios y efectuar sus promedios; ser secretaria de la Comisión de Carrera; colaborar con el manual de funciones."
+},
+{
+"t": "Funciones del empleo frente al art. 12",
+"x": "De las 15 funciones del perfil, algunas desarrollan numerales del art. 12 (por ejemplo, las funciones 8 y 9 sobre evaluación del desempeño frente a los numerales 13 y 14); otras son generales del manual, como planeación, contratación, liderazgo de proyectos, registro de actuaciones y sistemas de gestión."
+},
+{
+"t": "Asesorar no es dirigir",
+"x": "La oficina asesora; la suprema dirección del sistema de carrera es del Procurador (art. 7, núm. 40). Las políticas de estudios e investigaciones de carrera también las fija el Procurador (lit. h)."
+},
+{
+"t": "Las dos comisiones",
+"x": "Tu jefe es secretario de la Comisión de Carrera (art. 239); el de Gestión Humana, de la Comisión de Personal (art. 70). Los traslados definitivos de sede requieren concepto de la Comisión de Personal (art. 71)."
+},
+{
+"t": "Tu prueba",
+"x": "Conocimientos: eliminatoria, mínimo 65, 70 %. Competencias comportamentales: 20 %. Antecedentes: 10 %. Lista de elegibles: al menos 70 del total ponderado (Convocatoria 67, numeral 8; art. 216)."
+},
+{
+"t": "Tus competencias comportamentales",
+"x": "Pensamiento conceptual y orientación a resultados en Nivel A; investigación y cumplimiento de parámetros en Nivel B; creatividad e innovación en Nivel C; además, responsabilidad con la organización y organización del trabajo (transversales, Nivel B)."
+},
+{
+"t": "Si te nombran",
+"x": "Período de prueba de 4 meses; si lo apruebas, la propia oficina te inscribe en el Registro Único de Carrera (art. 218; art. 12, núm. 11)."
+}
+]
+}
+]

@@ -1,5 +1,5 @@
 // Cache de la app para estudiar sin conexión. Cambia VERSION al publicar cambios.
-const VERSION = 'mc67-2026-10-31b';
+const VERSION = 'mc67-2026-10-31c';
 const ARCHIVOS = [
   './',
   'index.html',
@@ -7,6 +7,7 @@ const ARCHIVOS = [
   'js/mapas.js',
   'js/app.js',
   'data/preguntas.json',
+  'data/ideas.json',
   'manifest.webmanifest',
   'icons/icon.svg',
   'icons/icon-192.png',
