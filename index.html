@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#1f3a5f">
+  <meta name="description" content="Estudio diario para la Convocatoria 67-2026 de la Procuraduría General de la Nación (Asesor 1AS-19, Oficina de Selección y Carrera).">
+  <title>Mi Concurso 67</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">Mi Concurso 67</div>
+    <div class="sub" id="topbar-sub">Asesor 1AS-19 · Selección y Carrera</div>
+  </header>
+
+  <main id="view" tabindex="-1">
+    <p class="loading">Cargando preguntas…</p>
+  </main>
+
+  <div id="player" class="player" hidden>
+    <div class="player-text" id="player-text"></div>
+    <div class="player-controls">
+      <button type="button" id="pl-prev" aria-label="Anterior">⏮</button>
+      <button type="button" id="pl-toggle" class="big" aria-label="Pausar">⏸</button>
+      <button type="button" id="pl-next" aria-label="Siguiente">⏭</button>
+      <button type="button" id="pl-stop" aria-label="Detener">✕</button>
+    </div>
+  </div>
+
+  <nav class="tabs" aria-label="Secciones">
+    <a href="#hoy" data-tab="hoy"><span class="ico">📅</span>Hoy</a>
+    <a href="#practicar" data-tab="practicar"><span class="ico">✍️</span>Practicar</a>
+    <a href="#escuchar" data-tab="escuchar"><span class="ico">🎧</span>Escuchar</a>
+    <a href="#simulacro" data-tab="simulacro"><span class="ico">⏱️</span>Simulacro</a>
+    <a href="#progreso" data-tab="progreso"><span class="ico">📈</span>Progreso</a>
+  </nav>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
